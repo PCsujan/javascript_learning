@@ -1,0 +1,48 @@
+.Botton_list{
+    background-color: cornflowerblue;
+    height: 500px;
+    width: 350px;
+    border-radius: 25px;
+    /* display: block; */
+
+}
+
+#button_1{
+    background-color: brown;
+    width: 250px;
+    height: 85px;
+    border: 3px solid red;
+    border-radius: 10px;
+    padding: 20px;
+    margin: 40px;
+    color: white;
+}
+#button_1:hover{
+    background-color: cornflowerblue;
+}
+
+#button_2{
+    background-color: rgb(46, 8, 233);
+    width: 250px;
+    height: 85px;
+    border: 3px solid seagreen;
+    border-radius: 15px;
+    margin: 40px;
+    color: white;
+}
+#button_2:hover{
+    background-color: chartreuse;
+}
+
+#button_3{
+    background-color: rgb(127, 5, 241);
+    width: 250px;
+    height: 85px;
+    border: 3px solid blue;
+    border-radius:4px;
+    margin: 40px;
+    color: white;
+}
+#button_3:hover{
+    background-color: cornflowerblue;
+}

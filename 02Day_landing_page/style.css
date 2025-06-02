@@ -1,0 +1,148 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.middle_text{
+    text-align: center;
+    color: black;
+    font-weight: bold;
+    background-color: chartreuse;
+}
+
+.main-container{
+    background-color: cornflowerblue;
+    display: flex;
+    flex-wrap: wrap;
+    gap: 120px;
+}
+
+.photo_frames{
+    background-color: white;
+    width: 300px;
+    height: auto;
+    border: 2px solid yellow;
+    padding: 10px;
+    margin: 12px;
+}
+
+.profile-images{
+    text-align: center;
+    margin: 2px;
+    padding: 2px;
+    object-fit: cover;
+    display: block;
+    height: 300px;
+    width: 100%;
+
+}
+
+.position{
+    text-align: center;
+    padding: 4px;
+    margin: auto;
+}
+
+.name{
+    padding-left: 10px;
+    color: red;
+}
+
+.about{
+    padding: 10px;
+    justify-content: space-between;
+}
+.social-icons{
+    text-align: center;
+    justify-content: space-between;
+    margin: 12px
+}
+
+.footer{
+    background:linear-gradient(to bottom, orange, whitesmoke);
+    height: 1200px;
+}
+
+.footer-head{
+    text-align: center;
+    padding: 150px;
+}
+
+.mini-container{
+    text-align: center;
+    gap: 200px;
+    display: flex;
+    margin-top: 150px;
+}
+
+.team{
+    margin-bottom: 20px;
+}
+
+.h2{
+    margin-top: 20px;
+}
+.office{
+    border: 2px solid black;
+    border-radius: 50px;
+    background-color: whitesmoke;
+    width: 200px;
+    height: 150px;
+    padding-top: 30px;
+}
+.phone{
+    border: 2px solid black;
+    border-radius: 50px;
+    background-color: whitesmoke;
+    width: 200px;
+    height: 150px;  
+    padding-top: 30px;
+}
+.fax{
+    border: 2px solid black;
+    border-radius: 50px;
+    background-color: whitesmoke;
+    width: 200px;
+    height: 150px;
+    padding-top: 30px;
+}
+.email{
+    border: 2px solid black;
+    border-radius: 50px;
+    background-color: whitesmoke;
+    width: 200px;
+    height: 150px;
+    padding-top: 30px;
+}
+
+.footer-tails{
+    display: flex;
+    padding-top: 60px;
+    margin: 30px;
+}
+
+.social-inf{
+    text-align: center;
+    justify-content: space-between;
+    padding-bottom: 200px;
+
+}
+
+.get,.para,.para2{
+    text-align: center;
+    padding-top: 25px;
+    justify-content: space-between;
+    margin: 25px;
+}
+
+
+.contact-inf{
+    text-align: center;
+    padding-top: 60px;
+}
+
+.email1,.name1,.message{
+    text-align: center;
+    padding: 20px;
+    margin: 20px;
+}
